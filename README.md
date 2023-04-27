@@ -27,8 +27,9 @@
   <h1 align="center">
   Github Performance
 </h1>
-  
-![Vivek Kumar GitHub stats](https://github-readme-stats.vercel.app/api?username=vivekkrsk&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&bg_color=0,141321,4E1E3C&hide_title=true&hide_border=true&cache_seconds=1800)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekkrsk&layout=compact&theme=radical&bg_color=0,141321,4E1E3C&hide_border=true)
+ 
+ ![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivekkrsk&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&hide_border=true&hide_title=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekkrsk&layout=compact&theme=radical&hide_border=true)
+ 
   
 <br>
 
