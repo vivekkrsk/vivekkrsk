@@ -45,7 +45,7 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
 
 
-<div align="center"> <img src="https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg" /></div>
+<div align="center"> <img src="https://github.com/vivekkrsk/vivekkrsk/blob/output/github-contribution-grid-snake.svg" /></div>
 
 
 <!--
