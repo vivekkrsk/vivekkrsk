@@ -1,6 +1,6 @@
-### Hi Greeting's ❤️
+### Vivek Kumar ❤️
 <h1 >
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=31&pause=1000&color=F71F71&repeat=false&width=415&lines=Hi+Greeting's+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=31&pause=1000&color=F71F71&repeat=false&width=650&lines=Hi+Greeting's+%E2%9D%A4%EF%B8%8F+from+Vivek+Kumar" alt="Typing SVG" /></a>
 </h1>
 
 > "`Simplicity` is the `soul` of `efficiency` << Talk is `cheap`, `show me` the `code` </>" 
