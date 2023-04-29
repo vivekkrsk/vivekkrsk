@@ -47,7 +47,7 @@
 </h1>  
 <img width="130" height="150" src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif" />
   
-Started my career at the age of Sixteen (18) as a Devloper. I have Three(3) plus years of predominant hands-on experience gained by doing projects on different topics🎉.
+Started my career at the age of Eighteen(18) as a Devloper. I have Three(3) plus years of predominant hands-on experience gained by doing projects on different topics🎉.
 
 ✔ Currently working as a Artificial intelligence, Machine learning, and Data Science Engineer 🚀
 
@@ -88,7 +88,7 @@ Believe in `Almighty` Exclusively and Unconditionally.
     Education 
     </h2>
 
-  `Graduation` - `Bachelor` in `Mechatroncs Engineering` - Delhi skill and Enterpreneure University, New Delhi, India
+  `Graduation` - `Bachelor` in `Mechatronics Engineering` - Delhi skill and Enterpreneure University, New Delhi, India
   
   Intermediate` in `Science` - Kautilya Sr. Secondary School, New Delhi
   
