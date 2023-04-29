@@ -47,7 +47,7 @@
 </h1>  
 <img width="130" height="150" src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif" />
   
-Started my career at the age of Sixteen (18) as a Devloper. I have four (3) plus years of predominant hands-on experience gained by doing projects on different topic🎉.
+Started my career at the age of Sixteen (18) as a Devloper. I have Three(3) plus years of predominant hands-on experience gained by doing projects on different topics🎉.
 
 ✔ Currently working as a Artificial intelligence, Machine learning, and Data Science Engineer 🚀
 
